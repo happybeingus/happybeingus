@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+G:\NortheasternUniversity\Semester 2\Managing Software Development\Development\Github\happybeingus\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3552907680.index
+3399557878.index
+3758090391.index
+1762618233.index
+2261587986.index
+1106947279.index
